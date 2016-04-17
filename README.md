@@ -11,5 +11,8 @@ Edit file app/config/title.ini
 ### Change content
 Edit file app/config/content.ini
 
-### Change Avatar
+### Change background
+Replace app/config/background.png with your image
+
+### Change avatar
 Replace app/config/avatar.png with your image
