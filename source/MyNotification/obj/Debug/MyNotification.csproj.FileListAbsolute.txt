@@ -1,0 +1,9 @@
+C:\Users\riswanda\Documents\Visual Studio 2015\Projects\MyNotification\MyNotification\bin\Debug\MyNotification.exe.config
+C:\Users\riswanda\Documents\Visual Studio 2015\Projects\MyNotification\MyNotification\bin\Debug\MyNotification.exe
+C:\Users\riswanda\Documents\Visual Studio 2015\Projects\MyNotification\MyNotification\bin\Debug\MyNotification.pdb
+C:\Users\riswanda\Documents\Visual Studio 2015\Projects\MyNotification\MyNotification\obj\Debug\MyNotification.csprojResolveAssemblyReference.cache
+C:\Users\riswanda\Documents\Visual Studio 2015\Projects\MyNotification\MyNotification\obj\Debug\MyNotification.Form1.resources
+C:\Users\riswanda\Documents\Visual Studio 2015\Projects\MyNotification\MyNotification\obj\Debug\MyNotification.Properties.Resources.resources
+C:\Users\riswanda\Documents\Visual Studio 2015\Projects\MyNotification\MyNotification\obj\Debug\MyNotification.csproj.GenerateResource.Cache
+C:\Users\riswanda\Documents\Visual Studio 2015\Projects\MyNotification\MyNotification\obj\Debug\MyNotification.exe
+C:\Users\riswanda\Documents\Visual Studio 2015\Projects\MyNotification\MyNotification\obj\Debug\MyNotification.pdb
