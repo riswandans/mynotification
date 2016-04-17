@@ -120,17 +120,4 @@
   <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="$this.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAAWkAAAB4CAIAAAC/5JSTAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wwAADsMBx2+oZAAAAXNJREFUeF7t1DEBADAQA6E6iX+X1fA3gwjeAO7cARTuAAp3AIU7gMIdQOEOoHAH
-        ULgDKNwBFO4ACncAhTuAwh1A4Q6gcAdQuAMo3AEU7gAKdwCFO4DCHUDhDqBwB1C4AyjcARTuAAp3AIU7
-        gMIdQOEOoHAHULgDKNwBFO4ACncAhTuAwh1A4Q6gcAdQuAMo3AEU7gAKdwCFO4DCHUDhDqBwB1C4Ayjc
-        ARTuAAp3AIU7gMIdQOEOoHAHULgDKNwBFO4ACncAhTuAwh1A4Q6gcAdQuAMo3AEU7gAKdwCFO4DCHUDh
-        DqBwB1C4AyjcARTuAAp3AIU7gMIdQOEOoHAHULgDKNwBFO4ACncAhTuAwh1A4Q6gcAdQuAMo3AEU7gAK
-        dwCFO4DCHUDhDqBwB1C4AyjcARTuAAp3AIU7gMIdQOEOoHAHULgDKNwBFO4ACncAhTuAwh1A4Q6gcAdQ
-        uAMo3AEU7gAKdwCFO4DCHUDhDqBwB3C3fTjufOxndzG0AAAAAElFTkSuQmCC
-</value>
-  </data>
 </root>

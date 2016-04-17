@@ -27,6 +27,7 @@ namespace MyNotification
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            this.BackgroundImage = Image.FromFile(@Application.StartupPath + "\\config\\background.png");
             this.title.Text = File.ReadAllText(@Application.StartupPath + "\\config\\title.ini");
             this.content.Text = File.ReadAllText(@Application.StartupPath + "\\config\\content.ini");
             this.avatar.Image = Image.FromFile(@Application.StartupPath + "\\config\\avatar.png");
