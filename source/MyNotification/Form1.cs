@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 using System.Speech.Synthesis;
+using Microsoft.Win32;
 
 namespace MyNotification
 {
@@ -46,6 +47,9 @@ namespace MyNotification
 
             /* Speech */
             _voice.SpeakAsync(content.Text);
+
+            /* Set Startup */
+            SetStartup();
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -58,6 +62,13 @@ namespace MyNotification
         {
             this.Close();
         }
-    }
+
+        private void SetStartup()
+        {
+            RegistryKey registry = Registry.CurrentUser.OpenSubKey
+                ("SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run", true);
+            registry.SetValue("MyNotification", Application.ExecutablePath.Replace("/", "\\"));
+        }
+}
 
 }
