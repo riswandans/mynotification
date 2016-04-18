@@ -15,3 +15,14 @@ C:\Users\riswanda\Documents\Visual Studio 2015\Projects\MyNotification\source\My
 C:\Users\riswanda\Documents\Visual Studio 2015\Projects\MyNotification\source\MyNotification\obj\Debug\MyNotification.Form1.resources
 C:\Users\riswanda\Documents\Visual Studio 2015\Projects\MyNotification\source\MyNotification\obj\Debug\MyNotification.Properties.Resources.resources
 C:\Users\riswanda\Documents\Visual Studio 2015\Projects\MyNotification\source\MyNotification\obj\Debug\MyNotification.csproj.GenerateResource.Cache
+D:\Source code\C#\MyNotification\source\MyNotification\bin\Debug\MyNotification.exe.config
+D:\Source code\C#\MyNotification\source\MyNotification\obj\Debug\MyNotification.exe
+D:\Source code\C#\MyNotification\source\MyNotification\obj\Debug\MyNotification.pdb
+D:\Source code\C#\MyNotification\source\MyNotification\bin\Debug\MyNotification.exe
+D:\Source code\C#\MyNotification\source\MyNotification\bin\Debug\MyNotification.pdb
+D:\Source code\C#\MyNotification\source\MyNotification\obj\Debug\MyNotification.Form1.resources
+D:\Source code\C#\MyNotification\source\MyNotification\obj\Debug\MyNotification.Properties.Resources.resources
+D:\Source code\C#\MyNotification\source\MyNotification\obj\Debug\MyNotification.csproj.GenerateResource.Cache
+D:\Source code\C#\MyNotification\source\MyNotification\obj\Debug\Interop.SpeechLib.dll
+D:\Source code\C#\MyNotification\source\MyNotification\obj\Debug\MyNotification.csproj.ResolveComReference.cache
+D:\Source code\C#\MyNotification\source\MyNotification\obj\Debug\Interop.MSSQLParser.dll

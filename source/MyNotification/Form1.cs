@@ -8,14 +8,19 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
+using System.Speech.Synthesis;
 
 namespace MyNotification
 {
     public partial class Form1 : Form
     {
+        SpeechSynthesizer _voice;
+
         public Form1()
         {
             InitializeComponent();
+            _voice = new SpeechSynthesizer();
+            
         }
 
         protected override void OnLoad(EventArgs e)
@@ -27,14 +32,20 @@ namespace MyNotification
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            /* Load your setting */
             this.BackgroundImage = Image.FromFile(@Application.StartupPath + "\\config\\background.png");
             this.title.Text = File.ReadAllText(@Application.StartupPath + "\\config\\title.ini");
             this.content.Text = File.ReadAllText(@Application.StartupPath + "\\config\\content.ini");
             this.avatar.Image = Image.FromFile(@Application.StartupPath + "\\config\\avatar.png");
             this.avatar.SizeMode = PictureBoxSizeMode.Zoom;
+
+            /* Auto hide when 6 sec */
             timer1.Enabled = true;
             timer1.Interval = 6000;
             timer1.Start();
+
+            /* Speech */
+            _voice.SpeakAsync(content.Text);
         }
 
         private void timer1_Tick(object sender, EventArgs e)
